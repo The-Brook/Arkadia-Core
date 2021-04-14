@@ -10,6 +10,7 @@ scoreboard objectives remove biome
 scoreboard objectives remove dayticks
 scoreboard objectives remove daytime
 scoreboard objectives remove boss
+scoreboard objectives remove structure
 
 
 # Remove bossbar
