@@ -1,0 +1,1 @@
+execute as @s store result bossbar minecraft:mdisplay value run scoreboard players get @s tMusic

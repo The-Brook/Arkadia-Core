@@ -1,0 +1,2 @@
+tellraw @s {"text":"Arkadia","bold":true,"color":"yellow"}
+tellraw @p {"text":"Music settings >","color":"yellow","clickEvent":{"action":"run_command","value":"/function arkcore:settings/personal/music"}}

@@ -1,0 +1,1 @@
+scoreboard objectives add cCtMusic dummy "Contextual Music Channel"
